@@ -34,7 +34,7 @@ The `GMT/` files are used only by the training workflow to build feature-scoring
 
 ## Installation
 
-Create a Python 3.10+ environment and install the dependencies:
+Create a Python 3.12 environment and install the dependencies:
 
 ```bash
 pip install -r requirements.txt
